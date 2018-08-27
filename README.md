@@ -14,3 +14,8 @@
 
 Remember to always make fun of people who encode in Latin 1 because they don't know what they're doing. 
 
+Some resources:
+
+https://theblogpress.com/blog/seeing-weird-characters-on-blog-how-to-fix-wordpress-character-encoding-latin1-to-utf8/
+
+https://codex.wordpress.org/Converting_Database_Character_Sets
